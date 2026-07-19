@@ -1,6 +1,6 @@
 # Forecasting Project
 
-Project được thực hiện sau học phần **Forecasting**, kết hợp nền tảng về **Probability, Stochastic Processes, Statistical Modeling và Time-Series Analysis** với các bài toán phân tích và dự báo thực tế bằng **R**.
+Project là đồ án kết thúc học phần **Forecasting**, kết hợp nền tảng về **Probability, Stochastic Processes, Statistical Modeling và Time-Series Analysis** với các bài toán phân tích và dự báo thực tế bằng **R**.
 
 Project gồm hai phần chính:
 
